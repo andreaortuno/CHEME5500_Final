@@ -20,6 +20,6 @@ For this Hangman the user has the option to type a word to be guessed by another
 ## Usage
 
 To use simply download the folder and then run
-'''
+```python
 python hangman_game.py
-'''
+```
